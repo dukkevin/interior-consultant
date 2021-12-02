@@ -9,4 +9,4 @@
 <li>JAVASCRIPT - used for the menu</li>
 
 <br>
-<sup>*the purpose of this project was not browser compatibility. for the best result please use Firefox Developer Edition / Firefox / Google Chrome.</sup>
+<sup>*built for practice</sup>
